@@ -17,13 +17,13 @@ This project allows you to transcribe audio from YouTube videos using the Whispe
 ```bash
 pip install whisper yt-dlp textwrap```
 
-##  Setup
+## Setup
 
 git clone https://github.com/yourusername/yourrepository.git
 cd yourrepository
 
 
-##  Install the required Python packages
+## Install the required Python packages
 
 pip install -r requirements.txt
 
