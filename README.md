@@ -14,23 +14,19 @@ This project allows you to transcribe audio from YouTube videos using the Whispe
 - Python 3.6+
 - Install required Python packages:
 
-```bash
-pip install whisper yt-dlp textwrap```
-
 ## Setup
 
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository
+```git clone https://github.com/yourusername/yourrepository.git
+cd yourrepository```
 
 
 ## Install the required Python packages
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 ## Usage
 
-Run the script:
-python transcribe_youtube.py
+```python transcribe_youtube.py```
 
 ## License
 
