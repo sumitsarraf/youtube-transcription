@@ -21,11 +21,11 @@ cd yourrepository
 
 ## Install the required Python packages
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 ## Usage
 
-python transcribe_youtube.py
+```python transcribe_youtube.py```
 
 ## License
 
