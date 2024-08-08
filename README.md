@@ -16,16 +16,22 @@ This project allows you to transcribe audio from YouTube videos using the Whispe
 
 ## Setup
 
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository
+	```bash
+	git clone https://github.com/sumitsarraf/youtube-transcription.git
+	cd youtube-transcription
+	```
 
 ## Install the required Python packages
 
-```pip install -r requirements.txt```
+	```bash
+	pip install -r requirements.txt
+	```
 
 ## Usage
 
-```python transcribe_youtube.py```
+	```bash
+	python transcribe_youtube.py
+	```
 
 ## License
 
